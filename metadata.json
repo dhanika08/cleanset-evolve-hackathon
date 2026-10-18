@@ -1,0 +1,6 @@
+{
+  "name": "CleanSet - LC Document Compliance Officer",
+  "description": "Pre-check export shipping documents against Letters of Credit under UCP 600 and ISBP 821 international standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
